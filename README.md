@@ -11,11 +11,12 @@ Figures are in the `./figures` directory.
 ## Examples of Figures
 
 
-| ![Figure 2a reproduction](./figures/2a.png) | ![Figure 2c reproduction](./figures/2c.png) |
-| Figure 2a reproduction: $\kappa_xy/T$ vs temperature for field along a. | Figure 2c reproduction: $\kappa_xy/T$ vs temperature for field along -a. |
+![Figure 2a reproduction](./figures/2a.png)  ![Figure 2c reproduction](./figures/2c.png) . 
+
+Figures 2(a) and 2(c) reproduced: $\kappa_xy/T$ vs temperature for field along $\pm$, respectively. 
 
 ![Figure 3b reproduction](./figures/3b.png)
 
-Figure 3b reproduction: Berry curvature in the a-polarized state.
+Figure 3(b) reproduction: Berry curvature in the a-polarized state.
 
 
